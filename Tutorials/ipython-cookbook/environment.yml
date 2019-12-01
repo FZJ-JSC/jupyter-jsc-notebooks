@@ -1,0 +1,213 @@
+name: cookbook
+channels:
+- ioam
+- conda-forge
+- defaults
+dependencies:
+- altair
+- bqplot
+- cartopy
+- freexl
+- geos
+- giflib
+- ipyleaflet
+- ipyvolume
+- ipywebrtc
+- joblib
+- json-c
+- kealib
+- libgpuarray
+- libnetcdf
+- proj4
+- pyepsg
+- pygpu
+- pymc3
+- pyproj
+- pyshp
+- pythreejs
+- shapely
+- theano
+- tqdm
+- traittypes
+- vega
+- xerces-c
+- alabaster
+- anaconda
+- anaconda-client
+- anaconda-navigator
+- anaconda-project
+- astroid
+- babel
+- backports
+- beautifulsoup4
+- bitarray
+- bkcharts
+- blaze
+- bleach
+- bokeh
+- boto
+- bottleneck
+- cairo
+- cffi
+- click
+- cloudpickle
+- colorama
+- cudatoolkit
+- curl
+- cycler
+- cython
+- cytoolz
+- dask
+- dask-core
+- datashape
+- dbus
+- decorator
+- distributed
+- docutils
+- entrypoints
+- fastcache
+- flask
+- fontconfig
+- freetype
+- get_terminal_size
+- gevent
+- glib
+- glob2
+- gmp
+- gmpy2
+- graphite2
+- greenlet
+- gsl
+- gst-plugins-base
+- gstreamer
+- h5py
+- hdf5
+- heapdict
+- imageio
+- intel-openmp
+- ipykernel
+- ipyparallel
+- ipython
+- ipython_genutils
+- ipywidgets
+- isort
+- jbig
+- jdcal
+- jedi
+- jinja2
+- jupyter
+- jupyter_client
+- jupyter_console
+- jupyter_core
+- jupyterlab
+- jupyterlab_launcher
+- libboost
+- libffi
+- libgdal
+- libgfortran-ng
+- libkml
+- libpng
+- libpq
+- libsodium
+- libspatialite
+- libxml2
+- libxslt
+- line_profiler
+- llvmlite
+- lxml
+- lzo
+- markupsafe
+- matplotlib
+- mccabe
+- memory_profiler
+- mistune
+- mkl
+- mkl-service
+- nbconvert
+- nbformat
+- ncurses
+- networkx
+- nltk
+- nose
+- notebook
+- numba
+- numexpr
+- numpy
+- odo
+- openpyxl
+- pandas
+- pandoc
+- path.py
+- patsy
+- pep8
+- pillow
+- pip
+- pixman
+- ply
+- psutil
+- pycurl
+- pyflakes
+- pygments
+- pylint
+- pyqt
+- pytables
+- pytest
+- pywavelets
+- pyyaml
+- pyzmq
+- qt
+- qtawesome
+- qtconsole
+- qtpy
+- r-dbplyr
+- r-dplyr
+- r-r6
+- r-rcpp
+- r-rlang
+- r-tibble
+- readline
+- requests
+- rope
+- rpy2
+- ruamel_yaml
+- scikit-image
+- scikit-learn
+- scipy
+- seaborn
+- setuptools
+- simplegeneric
+- singledispatch
+- sip
+- sphinx
+- spyder
+- statsmodels
+- sympy
+- tornado
+- traitlets
+- xlsxwriter
+- xlwt
+- zeromq
+- holoviews
+- pip:
+  - autopep8
+  - backports.shutil-get-terminal-size
+  - bash-kernel
+  - coverage
+  - cssselect
+  - et-xmlfile
+  - flake8
+  - ipython-genutils
+  - ipythonblocks
+  - jupyter-client
+  - jupyter-console
+  - jupyter-core
+  - jupyterlab-launcher
+  - line-profiler
+  - memory-profiler
+  - prompt-toolkit
+  - pydub
+  - pypandoc
+  - pytest-cov
+  - ruamel-yaml
+  - smopy
+  - tables
