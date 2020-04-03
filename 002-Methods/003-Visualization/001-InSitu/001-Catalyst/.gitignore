@@ -1,0 +1,6 @@
+.ipynb_checkpoints/*
+CatalystEnabledSimulation/.ipynb_checkpoints/*
+CatalystEnabledSimulation/__pycache__/
+
+fullgrid*
+slice*
