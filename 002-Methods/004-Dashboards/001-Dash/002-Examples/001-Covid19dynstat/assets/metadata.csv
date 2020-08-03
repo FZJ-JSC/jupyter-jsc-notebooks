@@ -1,0 +1,413 @@
+countyID,LKType,LKName
+5334,StädteRegion,Aachen
+7131,LK,Ahrweiler
+9771,LK,Aichach-Friedberg
+8425,LK,Alb-Donau-Kreis
+16077,LK,Altenburger Land
+7132,LK,Altenkirchen
+15081,LK,Altmarkkreis Salzwedel
+9171,LK,Altötting
+7331,LK,Alzey-Worms
+9361,SK,Amberg
+9371,LK,Amberg-Sulzbach
+3451,LK,Ammerland
+15082,LK,Anhalt-Bitterfeld
+9561,SK,Ansbach
+9571,LK,Ansbach
+9661,SK,Aschaffenburg
+9671,LK,Aschaffenburg
+9772,LK,Augsburg
+9761,SK,Augsburg
+3452,LK,Aurich
+7332,LK,Bad Dürkheim
+9672,LK,Bad Kissingen
+7133,LK,Bad Kreuznach
+9173,LK,Bad Tölz-Wolfratshausen
+8211,SK,Baden-Baden
+9471,LK,Bamberg
+9461,SK,Bamberg
+12060,LK,Barnim
+14625,LK,Bautzen
+9472,LK,Bayreuth
+9462,SK,Bayreuth
+9172,LK,Berchtesgadener Land
+6431,LK,Bergstraße
+11004,SK,Berlin Charlottenburg-Wilmersdorf
+11002,SK,Berlin Friedrichshain-Kreuzberg
+11011,SK,Berlin Lichtenberg
+11010,SK,Berlin Marzahn-Hellersdorf
+11001,SK,Berlin Mitte
+11008,SK,Berlin Neukölln
+11003,SK,Berlin Pankow
+11012,SK,Berlin Reinickendorf
+11005,SK,Berlin Spandau
+11006,SK,Berlin Steglitz-Zehlendorf
+11007,SK,Berlin Tempelhof-Schöneberg
+11009,SK,Berlin Treptow-Köpenick
+7231,LK,Bernkastel-Wittlich
+8426,LK,Biberach
+5711,SK,Bielefeld
+7134,LK,Birkenfeld
+7232,LK,Bitburg-Prüm
+8115,LK,Böblingen
+5911,SK,Bochum
+8435,LK,Bodenseekreis
+5314,SK,Bonn
+15083,LK,Börde
+5554,LK,Borken
+5512,SK,Bottrop
+12051,SK,Brandenburg a.d.Havel
+3101,SK,Braunschweig
+8315,LK,Breisgau-Hochschwarzwald
+4011,SK,Bremen
+4012,SK,Bremerhaven
+15084,LK,Burgenlandkreis
+8235,LK,Calw
+3351,LK,Celle
+9372,LK,Cham
+14511,SK,Chemnitz
+3453,LK,Cloppenburg
+9463,SK,Coburg
+9473,LK,Coburg
+7135,LK,Cochem-Zell
+5558,LK,Coesfeld
+12052,SK,Cottbus
+3352,LK,Cuxhaven
+9174,LK,Dachau
+12061,LK,Dahme-Spreewald
+6411,SK,Darmstadt
+6432,LK,Darmstadt-Dieburg
+9271,LK,Deggendorf
+3401,SK,Delmenhorst
+15001,SK,Dessau-Roßlau
+3251,LK,Diepholz
+9773,LK,Dillingen a.d.Donau
+9279,LK,Dingolfing-Landau
+1051,LK,Dithmarschen
+9779,LK,Donau-Ries
+7333,LK,Donnersbergkreis
+5913,SK,Dortmund
+14612,SK,Dresden
+5112,SK,Duisburg
+5358,LK,Düren
+5111,SK,Düsseldorf
+9175,LK,Ebersberg
+16061,LK,Eichsfeld
+9176,LK,Eichstätt
+16056,SK,Eisenach
+12062,LK,Elbe-Elster
+3402,SK,Emden
+8316,LK,Emmendingen
+3454,LK,Emsland
+5954,LK,Ennepe-Ruhr-Kreis
+8236,LK,Enzkreis
+9177,LK,Erding
+16051,SK,Erfurt
+9562,SK,Erlangen
+9572,LK,Erlangen-Höchstadt
+14521,LK,Erzgebirgskreis
+5113,SK,Essen
+8116,LK,Esslingen
+5366,LK,Euskirchen
+1001,SK,Flensburg
+9474,LK,Forchheim
+7311,SK,Frankenthal
+12053,SK,Frankfurt (Oder)
+6412,SK,Frankfurt am Main
+8311,SK,Freiburg i.Breisgau
+9178,LK,Freising
+8237,LK,Freudenstadt
+9272,LK,Freyung-Grafenau
+3455,LK,Friesland
+6631,LK,Fulda
+9179,LK,Fürstenfeldbruck
+9563,SK,Fürth
+9573,LK,Fürth
+9180,LK,Garmisch-Partenkirchen
+5513,SK,Gelsenkirchen
+16052,SK,Gera
+7334,LK,Germersheim
+6531,LK,Gießen
+3151,LK,Gifhorn
+8117,LK,Göppingen
+14626,LK,Görlitz
+3153,LK,Goslar
+16067,LK,Gotha
+3159,LK,Göttingen
+3456,LK,Grafschaft Bentheim
+16076,LK,Greiz
+6433,LK,Groß-Gerau
+9774,LK,Günzburg
+5754,LK,Gütersloh
+5914,SK,Hagen
+15002,SK,Halle
+2000,SK,Hamburg
+3252,LK,Hameln-Pyrmont
+5915,SK,Hamm
+3241,Region,Hannover
+3353,LK,Harburg
+15085,LK,Harz
+9674,LK,Haßberge
+12063,LK,Havelland
+3358,LK,Heidekreis
+8221,SK,Heidelberg
+8135,LK,Heidenheim
+8121,SK,Heilbronn
+8125,LK,Heilbronn
+5370,LK,Heinsberg
+3154,LK,Helmstedt
+5758,LK,Herford
+5916,SK,Herne
+6632,LK,Hersfeld-Rotenburg
+1053,LK,Herzogtum Lauenburg
+16069,LK,Hildburghausen
+3254,LK,Hildesheim
+5958,LK,Hochsauerlandkreis
+6434,LK,Hochtaunuskreis
+9464,SK,Hof
+9475,LK,Hof
+8126,LK,Hohenlohekreis
+3255,LK,Holzminden
+5762,LK,Höxter
+16070,LK,Ilm-Kreis
+9161,SK,Ingolstadt
+16053,SK,Jena
+15086,LK,Jerichower Land
+7335,LK,Kaiserslautern
+7312,SK,Kaiserslautern
+8215,LK,Karlsruhe
+8212,SK,Karlsruhe
+6633,LK,Kassel
+6611,SK,Kassel
+9762,SK,Kaufbeuren
+9273,LK,Kelheim
+9763,SK,Kempten
+1002,SK,Kiel
+9675,LK,Kitzingen
+5154,LK,Kleve
+7111,SK,Koblenz
+5315,SK,Köln
+8335,LK,Konstanz
+5114,SK,Krefeld
+9476,LK,Kronach
+9477,LK,Kulmbach
+7336,LK,Kusel
+16065,LK,Kyffhäuserkreis
+6532,LK,Lahn-Dill-Kreis
+7313,SK,Landau i.d.Pfalz
+9181,LK,Landsberg a.Lech
+9261,SK,Landshut
+9274,LK,Landshut
+3457,LK,Leer
+14729,LK,Leipzig
+14713,SK,Leipzig
+5316,SK,Leverkusen
+9478,LK,Lichtenfels
+6533,LK,Limburg-Weilburg
+9776,LK,Lindau
+5766,LK,Lippe
+8336,LK,Lörrach
+1003,SK,Lübeck
+3354,LK,Lüchow-Dannenberg
+8118,LK,Ludwigsburg
+7314,SK,Ludwigshafen
+13076,LK,Ludwigslust/Parchim
+3355,LK,Lüneburg
+15003,SK,Magdeburg
+6435,LK,Main-Kinzig-Kreis
+9677,LK,Main-Spessart
+8128,LK,Main-Tauber-Kreis
+6436,LK,Main-Taunus-Kreis
+7315,SK,Mainz
+7339,LK,Mainz-Bingen
+8222,SK,Mannheim
+15087,LK,Mansfeld-Südharz
+6534,LK,Marburg-Biedenkopf
+12064,LK,Märkisch-Oderland
+5962,LK,Märkischer Kreis
+7137,LK,Mayen-Koblenz
+13071,LK,Mecklenburgische Seenplatte
+14627,LK,Meißen
+9764,SK,Memmingen
+10042,LK,Merzig-Wadern
+5158,LK,Mettmann
+9182,LK,Miesbach
+9676,LK,Miltenberg
+5770,LK,Minden-Lübbecke
+14522,LK,Mittelsachsen
+5116,SK,Mönchengladbach
+9183,LK,Mühldorf a.Inn
+5117,SK,Mülheim a.d.Ruhr
+9162,SK,München
+9184,LK,München
+5515,SK,Münster
+8225,LK,Neckar-Odenwald-Kreis
+9775,LK,Neu-Ulm
+9185,LK,Neuburg-Schrobenhausen
+9373,LK,Neumarkt i.d.OPf.
+1004,SK,Neumünster
+10043,LK,Neunkirchen
+9374,LK,Neustadt a.d.Waldnaab
+7316,SK,Neustadt a.d.Weinstraße
+9575,LK,Neustadt/Aisch-Bad Windsheim
+7138,LK,Neuwied
+3256,LK,Nienburg (Weser)
+1054,LK,Nordfriesland
+16062,LK,Nordhausen
+14730,LK,Nordsachsen
+13074,LK,Nordwestmecklenburg
+3155,LK,Northeim
+9564,SK,Nürnberg
+9574,LK,Nürnberger Land
+9780,LK,Oberallgäu
+5374,LK,Oberbergischer Kreis
+5119,SK,Oberhausen
+12065,LK,Oberhavel
+12066,LK,Oberspreewald-Lausitz
+6437,LK,Odenwaldkreis
+12067,LK,Oder-Spree
+6438,LK,Offenbach
+6413,SK,Offenbach
+3458,LK,Oldenburg
+3403,SK,Oldenburg
+5966,LK,Olpe
+8317,LK,Ortenaukreis
+3459,LK,Osnabrück
+3404,SK,Osnabrück
+8136,LK,Ostalbkreis
+9777,LK,Ostallgäu
+3356,LK,Osterholz
+1055,LK,Ostholstein
+12068,LK,Ostprignitz-Ruppin
+5774,LK,Paderborn
+9262,SK,Passau
+9275,LK,Passau
+3157,LK,Peine
+9186,LK,Pfaffenhofen a.d.Ilm
+8231,SK,Pforzheim
+1056,LK,Pinneberg
+7317,SK,Pirmasens
+1057,LK,Plön
+12054,SK,Potsdam
+12069,LK,Potsdam-Mittelmark
+12070,LK,Prignitz
+8216,LK,Rastatt
+8436,LK,Ravensburg
+5562,LK,Recklinghausen
+9276,LK,Regen
+9375,LK,Regensburg
+9362,SK,Regensburg
+8119,LK,Rems-Murr-Kreis
+5120,SK,Remscheid
+1058,LK,Rendsburg-Eckernförde
+8415,LK,Reutlingen
+5362,LK,Rhein-Erft-Kreis
+7140,LK,Rhein-Hunsrück-Kreis
+5162,LK,Rhein-Kreis Neuss
+7141,LK,Rhein-Lahn-Kreis
+8226,LK,Rhein-Neckar-Kreis
+7338,LK,Rhein-Pfalz-Kreis
+5382,LK,Rhein-Sieg-Kreis
+6439,LK,Rheingau-Taunus-Kreis
+5378,LK,Rheinisch-Bergischer Kreis
+9673,LK,Rhön-Grabfeld
+9163,SK,Rosenheim
+9187,LK,Rosenheim
+13072,LK,Rostock
+13003,SK,Rostock
+3357,LK,Rotenburg (Wümme)
+9576,LK,Roth
+9277,LK,Rottal-Inn
+8325,LK,Rottweil
+16074,LK,Saale-Holzland-Kreis
+16075,LK,Saale-Orla-Kreis
+15088,LK,Saalekreis
+16073,LK,Saalfeld-Rudolstadt
+10045,LK,Saar-Pfalz-Kreis
+10044,LK,Saarlouis
+14628,LK,Sächsische Schweiz-Osterzgebirge
+3102,SK,Salzgitter
+15089,LK,Salzlandkreis
+10046,LK,Sankt Wendel
+3257,LK,Schaumburg
+1059,LK,Schleswig-Flensburg
+16066,LK,Schmalkalden-Meiningen
+9565,SK,Schwabach
+8127,LK,Schwäbisch Hall
+6634,LK,Schwalm-Eder-Kreis
+9376,LK,Schwandorf
+8326,LK,Schwarzwald-Baar-Kreis
+9678,LK,Schweinfurt
+9662,SK,Schweinfurt
+13004,SK,Schwerin
+1060,LK,Segeberg
+5970,LK,Siegen-Wittgenstein
+8437,LK,Sigmaringen
+5974,LK,Soest
+5122,SK,Solingen
+16068,LK,Sömmerda
+16072,LK,Sonneberg
+7318,SK,Speyer
+12071,LK,Spree-Neiße
+3359,LK,Stade
+10041,LK,Stadtverband Saarbrücken
+9188,LK,Starnberg
+1061,LK,Steinburg
+5566,LK,Steinfurt
+15090,LK,Stendal
+1062,LK,Stormarn
+9263,SK,Straubing
+9278,LK,Straubing-Bogen
+8111,SK,Stuttgart
+7337,LK,Südliche Weinstraße
+7340,LK,Südwestpfalz
+16054,SK,Suhl
+12072,LK,Teltow-Fläming
+9377,LK,Tirschenreuth
+9189,LK,Traunstein
+7211,SK,Trier
+7235,LK,Trier-Saarburg
+8416,LK,Tübingen
+8327,LK,Tuttlingen
+12073,LK,Uckermark
+3360,LK,Uelzen
+8421,SK,Ulm
+5978,LK,Unna
+16064,LK,Unstrut-Hainich-Kreis
+9778,LK,Unterallgäu
+3460,LK,Vechta
+3361,LK,Verden
+5166,LK,Viersen
+6535,LK,Vogelsbergkreis
+14523,LK,Vogtlandkreis
+13075,LK,Vorpommern/Greifswald
+13073,LK,Vorpommern/Rügen
+7233,LK,Vulkaneifel
+6635,LK,Waldeck-Frankenberg
+8337,LK,Waldshut
+5570,LK,Warendorf
+16063,LK,Wartburgkreis
+9363,SK,Weiden i.d.OPf.
+9190,LK,Weilheim-Schongau
+16055,SK,Weimar
+16071,LK,Weimarer Land
+9577,LK,Weißenburg-Gunzenhausen
+6636,LK,Werra-Meißner-Kreis
+5170,LK,Wesel
+3461,LK,Wesermarsch
+7143,LK,Westerwaldkreis
+6440,LK,Wetteraukreis
+6414,SK,Wiesbaden
+3405,SK,Wilhelmshaven
+15091,LK,Wittenberg
+3462,LK,Wittmund
+3158,LK,Wolfenbüttel
+3103,SK,Wolfsburg
+7319,SK,Worms
+9479,LK,Wunsiedel i.Fichtelgebirge
+5124,SK,Wuppertal
+9663,SK,Würzburg
+9679,LK,Würzburg
+8417,LK,Zollernalbkreis
+7320,SK,Zweibrücken
+14524,LK,Zwickau
