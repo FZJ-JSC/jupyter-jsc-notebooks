@@ -6,3 +6,4 @@ You will find here selected Jupyter Notebooks from
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 Collected in a single git repository to allow easy access and minor adjustments for our cluster-wide installation of JupyterLab.
 
+In addition, it is a collection of notebooks for us at JSC, which are used as a sanity check.
